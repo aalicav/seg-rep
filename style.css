@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(111, 190, 243);
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 15px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+}
